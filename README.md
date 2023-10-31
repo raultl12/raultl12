@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm a Computer Engineering Student at University of Granada. 
+
+I like Web and Game developement. :video_game:
+
+Some of my skills:
+* HTML, CSS, JS, node, typescript, php.
+* Unreal Engine 4, Unity, c++, c#.
+Others:
+* Java, SQL, Oracle sqldeveloper, Python.
+
+🌱 I’m currently learning WebGL, React, MERN stack
+
+Check out my [linkedin](https://www.linkedin.com/in/ra%C3%BAl-torrente-l%C3%B3pez-6b9760250/) profile!
+
 <!--
 **raultl12/raultl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
