@@ -7,7 +7,7 @@ I like Web and Game developement. :video_game:
 Some of my skills:
 * HTML, CSS, JS, node, typescript, php.
 * Unreal Engine 4, Unity, c++, c#.
-* 
+
 Others:
 * Java, SQL, Oracle sqldeveloper, Python.
 
