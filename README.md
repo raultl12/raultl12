@@ -5,11 +5,11 @@ I'm a Computer Engineering Student at University of Granada.
 I like Web and Game developement. :video_game:
 
 Some of my skills:
-* HTML, CSS, JS, node, typescript, php.
-* Unreal Engine 4, Unity, c++, c#.
+* HTML, CSS, JS, Node, TypeScript, PHP.
+* Unreal Engine 4, Unity, C++, C#, C.
 
 Others:
-* Java, SQL, Oracle sqldeveloper, Python.
+* Java, SQL, Oracle SQL Developer, Python.
 
 🌱 I’m currently learning WebGL, React and the MERN stack.
 
