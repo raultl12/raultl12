@@ -11,7 +11,7 @@ Some of my skills:
 Others:
 * Java, SQL, Oracle sqldeveloper, Python.
 
-🌱 I’m currently learning WebGL, React, MERN stack.
+🌱 I’m currently learning WebGL, React and the MERN stack.
 
 Check out my [linkedin](https://www.linkedin.com/in/ra%C3%BAl-torrente-l%C3%B3pez-6b9760250/) profile!
 
